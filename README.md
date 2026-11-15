@@ -1,5 +1,9 @@
 Telegram ID : @danielwang120
+
+
 Discord : ogun0179
+
+
 Teams : danny.newTech@outlook.com
 
 ## setup
